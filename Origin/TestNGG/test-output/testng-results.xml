@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9067" started-at="2020-02-17T20:46:12 EST" finished-at="2020-02-17T20:46:21 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9067" started-at="2020-02-17T20:46:12 EST" finished-at="2020-02-17T20:46:21 EST">
+      <class name="demo.VerifyPageTitleTestNG">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:demo.VerifyPageTitleTestNG@1f28c152]" name="openApplication" is-config="true" duration-ms="8782" started-at="2020-02-17T20:46:12 EST" finished-at="2020-02-17T20:46:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:0, instance:demo.VerifyPageTitleTestNG@1f28c152]" name="verifyPageTitle" duration-ms="18" started-at="2020-02-17T20:46:21 EST" finished-at="2020-02-17T20:46:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:demo.VerifyPageTitleTestNG@1f28c152]" name="closeApplication" is-config="true" duration-ms="211" started-at="2020-02-17T20:46:21 EST" finished-at="2020-02-17T20:46:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- demo.VerifyPageTitleTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
